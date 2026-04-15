@@ -47,10 +47,4 @@ print(df.groupby("Region")["Sales"].sum())
 print("\nSales by Category:")
 print(df.groupby("Category")["Sales"].sum())
 
-# -------------------------
-# Visualization
-# -------------------------
 
-df.groupby("Region")["Sales"].sum().plot(kind="bar")
-plt.title("Sales by Region")
-plt.show()

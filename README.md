@@ -19,6 +19,12 @@ This project performs exploratory data analysis on the Superstore sales dataset 
 - Data type inspection
 - Statistical summary of numerical columns
 
+### Day 3
+- Performed SQL-based analysis using pandasql
+- Identified top-performing regions and categories
+- Analyzed top-selling products
+- Evaluated monthly sales trends
+
 ### Key Insights
 - **Total Sales**: $2,297,200.86
 - **Total Profit**: $286,397.02
@@ -33,6 +39,13 @@ This project performs exploratory data analysis on the Superstore sales dataset 
 - Technology: $836,154.03
 - Furniture: $741,999.80
 - Office Supplies: $719,047.03
+
+## Visualizations
+
+### Sales by Region
+![Sales by Region](sales_by_region.png)
+
+This chart shows the distribution of sales across the four regions, with the West region leading at $725,457.82, followed by East at $678,781.24.
 
 ## Installation
 
