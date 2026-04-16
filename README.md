@@ -53,7 +53,10 @@ This chart shows the distribution of sales across the four regions, with the Wes
 ## 📊 Dashboard (Power BI)
 - Created interactive dashboard to visualize sales and profit
 - Analyzed regional and category-wise performance
-- Identified business trends and key insights
+- Identified business trends and key insights.
+
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
 
 ### Requirements
 - Python 3.7+
