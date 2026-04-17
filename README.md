@@ -2,6 +2,20 @@
 
 This project performs exploratory data analysis on the Superstore sales dataset using Python and Pandas.
 
+## 🎯 Objective
+To analyze sales data and extract meaningful business insights such as revenue trends, regional performance, and category-level analysis to support data-driven decision making.
+
+## 🛠 Tools & Technologies
+- Python (Pandas, Matplotlib)
+- SQL (pandasql)
+- Power BI (Dashboard Visualization)
+
+## 📊 Key Insights
+- West region generated the highest sales
+- Technology category contributed the most revenue
+- Higher discounts negatively impacted profit
+- Regional sales distribution shows growth opportunities in South region
+
 ## Dataset
 - **File**: `SampleSuperstore.csv`
 - **Records**: 9,994 rows
